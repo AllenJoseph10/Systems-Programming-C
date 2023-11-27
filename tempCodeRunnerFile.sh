@@ -1,0 +1,1 @@
+echo "Rule added" > $successFile
